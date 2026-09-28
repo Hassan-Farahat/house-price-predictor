@@ -2,7 +2,7 @@
 
 An interactive Machine Learning valuation app built with Python, Streamlit, and Scikit-Learn to estimate residential property prices.
 
-🚀 **[Live Demo](https://house-price-predictor.streamlit.app/)**
+🚀 **[Live Demo](https://hassan-farahat-house-price-predictor-app-vidxup.streamlit.app/)**
 
 ## ✨ Features
 
